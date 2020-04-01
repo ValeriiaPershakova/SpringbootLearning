@@ -1,0 +1,7 @@
+target
+*.iml
+.idea
+etc.
+src/main/resources/templates
+src/main/resources/application.properties
+src/main/java/deprecated
